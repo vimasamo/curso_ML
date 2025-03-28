@@ -1,6 +1,6 @@
 import streamlit as st
 
-import io, contextlib, traceback, nbformat
+import io, contextlib, traceback
 
 import numpy as np
 import pandas as pd
